@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B673CBF3-9144-4F0F-B8B9-41716440C694}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paddle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Block.cs" Line="43" Column="33" IsPinned="True" />
+      <File FileName="Assets/Scripts/LoseCollider.cs" Line="11" Column="45" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="24" Column="77" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/Level.cs" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameSession.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="82eadd61-c255-4bc1-b69c-b6654a48a676" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
